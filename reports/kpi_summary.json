@@ -1,0 +1,26 @@
+{
+  "as_of": "2025-12-31",
+  "headcount": 1217,
+  "fte": 1165.6,
+  "women_share_pct": 41.5,
+  "attrition_2024": {
+    "year": 2024,
+    "leavers": 121,
+    "average_headcount": 1291.0,
+    "attrition_rate_pct": 9.4,
+    "voluntary_attrition_pct": 5.0
+  },
+  "attrition_2025": {
+    "year": 2025,
+    "leavers": 128,
+    "average_headcount": 1244.0,
+    "attrition_rate_pct": 10.3,
+    "voluntary_attrition_pct": 4.8
+  },
+  "gender_pay_gap": {
+    "unadjusted_gap_pct": 2.7,
+    "adjusted_gap_pct": 2.8
+  },
+  "labour_cost_total_eur": 54695332.0,
+  "labour_cost_per_fte_eur": 46925.0
+}
